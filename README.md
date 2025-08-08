@@ -1,4 +1,4 @@
 # Challenge_AmigoSecreto
 
 ## Screenshots
-![App Screenshot](assets/amigo-secreto.png)
+![App Screenshot](assets/Alura Latam.jpeg)
